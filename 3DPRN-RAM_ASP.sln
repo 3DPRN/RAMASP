@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DPRN-RAM_ASP", "3DPRN-RAM_ASP.csproj", "{CA21B917-EA39-4EB7-95BB-3CFA7D3641C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RAM ASP", "RAM ASP", "{8E71ADA2-143E-407F-956A-0162CF709B2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3DPRN_Fiware_Houston", "3DPRN_Fiware_Houston", "{11A9B64B-8AE6-4B04-AB57-A32E350BE9C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3DPRN_Fiware_Houston", "..\NewRepo\3DPRN_Fiware_Houston\3DPRN_Fiware_Houston\3DPRN_Fiware_Houston.csproj", "{F815B70C-B163-4016-8D99-559382394F9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3DPRN_Fiware", "3DPRN_Fiware", "{D0F4B2FF-FAC8-40BE-B646-9A5B2B9F202D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3DPRN_Fiware", "..\NewRepo\3DPRN_Fiware\3DPRN_Fiware\3DPRN_Fiware.csproj", "{010B024E-BA09-440D-A6B1-A39449434BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA21B917-EA39-4EB7-95BB-3CFA7D3641C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA21B917-EA39-4EB7-95BB-3CFA7D3641C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA21B917-EA39-4EB7-95BB-3CFA7D3641C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA21B917-EA39-4EB7-95BB-3CFA7D3641C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F815B70C-B163-4016-8D99-559382394F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F815B70C-B163-4016-8D99-559382394F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F815B70C-B163-4016-8D99-559382394F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F815B70C-B163-4016-8D99-559382394F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010B024E-BA09-440D-A6B1-A39449434BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010B024E-BA09-440D-A6B1-A39449434BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010B024E-BA09-440D-A6B1-A39449434BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010B024E-BA09-440D-A6B1-A39449434BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{11A9B64B-8AE6-4B04-AB57-A32E350BE9C4} = {8E71ADA2-143E-407F-956A-0162CF709B2F}
+		{F815B70C-B163-4016-8D99-559382394F9B} = {11A9B64B-8AE6-4B04-AB57-A32E350BE9C4}
+		{D0F4B2FF-FAC8-40BE-B646-9A5B2B9F202D} = {8E71ADA2-143E-407F-956A-0162CF709B2F}
+		{010B024E-BA09-440D-A6B1-A39449434BC0} = {D0F4B2FF-FAC8-40BE-B646-9A5B2B9F202D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A030841-A92D-48D1-999B-0A1C8C1F8074}
+	EndGlobalSection
+EndGlobal
