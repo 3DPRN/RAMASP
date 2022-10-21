@@ -6,3 +6,18 @@ To obtain the maximum degree of automation, the system should be equipped with a
 This repository contains some software to automate the 3D printing system and make it "powered by FIWARE".
 The full-experience is obtained with 3DPRN-LAB 3D printers, but any 3D printer running an instance of Octoprint can be controlled.
 
+**NGSIAgent_Printer**
+
+This is an NGSIAgent running on each printer.
+What this specifically do is talk locally with the specific printer and export data towards an Orion Context Broker. The centralized OCB will have a set of context data coming from all the printers; this will provide a full detailed situation of the current 3D printing process status.
+Read the specific documentation to have details on how to configure this instance.
+
+**NGSIAgent_ManSW**
+
+This is an NGSIAgent running on the pc where the centralized software is running.
+What this specifically do is talk locally with the centralized software and export data towards an Orion Context Broker. The centralized OCB will have the context data coming from all the printers; this will provide a full detailed situation of the working queue and robot status.
+Read the specific documentation to have details on how to configure this instance.
+
+**3DPRN-WALL - Centralized software**
+
+This software orchestrate the work of the printers
