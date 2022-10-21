@@ -12,7 +12,7 @@ This is an NGSIAgent running on each printer.
 What this specifically do is talk locally with the specific printer and export data towards an Orion Context Broker. The centralized OCB will have a set of context data coming from all the printers; this will provide a full detailed situation of the current 3D printing process status.
 Read the specific documentation to have details on how to configure this instance.
 
-**NGSIAgent_ManSW**
+**3DPRN_Fiware_Houston**
 
 This is an NGSIAgent running on the pc where the centralized software is running.
 What this specifically do is talk locally with the centralized software and export data towards an Orion Context Broker. The centralized OCB will have the context data coming from all the printers; this will provide a full detailed situation of the working queue and robot status.
