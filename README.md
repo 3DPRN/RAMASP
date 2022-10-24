@@ -27,7 +27,7 @@ Read the specific documentation to have details on how to configure this agent.
 **3DPRN-WALL - Centralized software**
 
 This software orchestrate the work of the printers.
-If you have 1000 printers attached to the system, you'll only need to select the gcode to print, and this software will print it considering current workings, the states of the printers and other process context informations.
+If you have 1000 printers attached to the system, you'll only need to select the gcode to print, and this software will print it considering current workings, the states of the printers and other context process informations.
 Read the specific documentation to have details on how to configure this software.
 
 **IoT platform**
