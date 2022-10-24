@@ -15,9 +15,23 @@ Read the specific documentation to have details on how to configure this instanc
 **3DPRN_Fiware_Houston**
 
 This is an NGSIAgent running on the pc where the centralized software is running.
-What this specifically do is talk locally with the centralized software and export data towards an Orion Context Broker. The centralized OCB will have the context data coming from all the printers; this will provide a full detailed situation of the working queue and robot status.
-Read the specific documentation to have details on how to configure this instance.
+What this specifically do is talk locally with the centralized software and export data towards an Orion Context Broker. The centralized OCB will have the context data coming from this software, providing details about workings flow, workings tails... .
+Read the specific documentation to have details on how to configure this agent.
 
 **3DPRN-WALL - Centralized software**
 
-This software orchestrate the work of the printers
+This software orchestrate the work of the printers.
+If you have 1000 printers attached to the system, you'll only need to select the gcode to print, and this software will print it considering current workings, the states of the printers and other process context informations.
+Read the specific documentation to have details on how to configure this software.
+
+**IoT platform**
+
+This software package needs to be installed and run on a centralized server.
+Main components of this IoT platform are:
+
+- Orion Context Broker on default port 1026
+- Grafana data visualisation on default port 3000
+- IoT Agent on port 4041
+- Crate DB on port 4200
+
+You can install this platform also on Windows OS through Docker. See specific documentation on how to run and configure the IoT platform.
