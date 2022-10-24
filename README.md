@@ -3,6 +3,9 @@ RAM ASP is a 3D printing project that aims to automate, consolidate and make mor
 The 3D printers composing the system are supposed to be organized in an orderly and regular physical scheme.
 To obtain the maximum degree of automation, the system should be equipped with a robotic arm. This arm will execute manual operations such as load and unloads of 3D printing plates and control vision of 3D printing.
 
+![ime](https://user-images.githubusercontent.com/8396924/197505563-0238353c-1439-413e-9da8-d3dac8aeee38.png)
+
+
 This repository contains some software to automate the 3D printing system and make it "powered by FIWARE".
 The full-experience is obtained with 3DPRN-LAB 3D printers, but any 3D printer running an instance of Octoprint can be controlled.
 
