@@ -7,19 +7,40 @@ Once you have compiled the software you will have to copy this to the pc or rasp
 
 
 **Configure**
-In the software folder you'll find a .INI file. This file is the configuration file and needs to be configured as follow (example):
-
-[FIWARE_PRN]
-IP_PRN=127.0.0.1
-Port_PRN=13000
-OrionClientConfig_BaseUrl=http://192.168.0.33:1026/
-OrionClientConfig_Token=ABCDEFGHIJKLMNOPQRSTUVWXYZ
+In the software folder you'll find a .config file (3DPRN_Fiware.exe.config). This file is the configuration file and needs to be configured as follow:
 
 IP_PRN : Ip address of the printer. Usually local host 127.0.0.1 if you are running this agent in local.
 Port_PRN :  Usually 13000. Used for 3DPRN-ONBOARD Gui instance, replaces Octoprint.
 OrionClientConfig_BaseUrl : Http address of the running Orion context broker. This address needs to be checked on the centralized server running the IoT platform.
 OrionClientConfig_Token : API token of your specific running Orion Context broker. To be founded on the docker instance on the server running the IoT platform.
 
+prn_ip: ip of the printer. Usually local host 127.0.0.1 if the NGSI Agent runs locally.
+prn_port: used from 3DPRN-ONBOARD Gui which can replace Octoprint. Usually 13000.
+fiware_hash: hash of the Orion Context Broker running in LAN. To be found in Docker on the centralized server.
+fiware_address: http-based address of the Orion Context Broker.
+octopi_hash: hash code of the Octoprint instance running on the printer. To be found on octoprint API settings.
+
+##Example##
+<_3DPRN_Fiware.Properties.Settings>
+  <setting name="prn_ip" serializeAs="String">
+    <value>127.0.0.1</value>
+  </setting>
+  <setting name="prn_port" serializeAs="String">
+    <value>13000</value>
+  </setting>
+  <setting name="fiware_hash" serializeAs="String">
+    <value ABCDEFG123/>
+  </setting>
+  <setting name="fiware_address" serializeAs="String">
+    <value>http://192.168.0.100:1026/</value>
+  </setting>
+  <setting name="octopi_hash" serializeAs="String">
+    <value ABCDEFG123/>
+  </setting>
+</_3DPRN_Fiware.Properties.Settings>
+
+
 
 **Run**
-To run the software just launch it or on Debian launch the command "sudo mono 3DPRN_Fiware.exe" (Mono required: https://www.mono-project.com/)
+To run the software just launch it or on Debian launch the command "sudo mono 3DPRN_Fiware.exe" (Mono required: https://www.mono-project.com/).
+Put it in autolaunch to make it automatic.
