@@ -22,21 +22,21 @@ octopi_hash: hash code of the Octoprint instance running on the printer. To be f
 
 ##Example##
 <_3DPRN_Fiware.Properties.Settings>
-  <setting name="prn_ip" serializeAs="String">
-    <value>127.0.0.1</value>
-  </setting>
-  <setting name="prn_port" serializeAs="String">
-    <value>13000</value>
-  </setting>
-  <setting name="fiware_hash" serializeAs="String">
-    <value ABCDEFG123/>
-  </setting>
-  <setting name="fiware_address" serializeAs="String">
-    <value>http://192.168.0.100:1026/</value>
-  </setting>
-  <setting name="octopi_hash" serializeAs="String">
-    <value ABCDEFG123/>
-  </setting>
+<setting name="prn_ip" serializeAs="String">
+  <value>127.0.0.1</value>
+</setting>
+<setting name="prn_port" serializeAs="String">
+      <value>13000</value>
+</setting>
+<setting name="fiware_hash" serializeAs="String">
+  <value ABCDEFG123/>
+</setting>
+<setting name="fiware_address" serializeAs="String">
+  <value>http://192.168.0.100:1026/</value>
+</setting>
+<setting name="octopi_hash" serializeAs="String">
+  <value ABCDEFG123/>
+</setting>
 </_3DPRN_Fiware.Properties.Settings>
 
 
