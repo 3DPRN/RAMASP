@@ -18,6 +18,7 @@ fiware_address: http-based address of the Orion Context Broker.
 octopi_hash: hash code of the Octoprint instance running on the printer. To be found on octoprint API settings.  
   
 ##Example##  
+'''
 <_3DPRN_Fiware.Properties.Settings>  
 <setting name="prn_ip" serializeAs="String">  
   <value>127.0.0.1</value>  
@@ -35,6 +36,7 @@ octopi_hash: hash code of the Octoprint instance running on the printer. To be f
   <value ABCDEFG123/>  
 </setting>  
 </_3DPRN_Fiware.Properties.Settings>  
+'''
   
 **Run**  
 To run the software just launch it or on Debian launch the command "sudo mono 3DPRN_Fiware.exe" (Mono required: https://www.mono-project.com/).  
