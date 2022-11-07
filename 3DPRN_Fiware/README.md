@@ -6,14 +6,14 @@ Once you have compiled the software you will have to copy this to the pc or rasp
 
 
 
-**Configure**
+**Configure**__
 In the software folder you'll find a .config file (3DPRN_Fiware.exe.config). This file is the configuration file and needs to be configured as follow:
-
-IP_PRN : Ip address of the printer. Usually local host 127.0.0.1 if you are running this agent in local.
-Port_PRN :  Usually 13000. Used for 3DPRN-ONBOARD Gui instance, replaces Octoprint.
-OrionClientConfig_BaseUrl : Http address of the running Orion context broker. This address needs to be checked on the centralized server running the IoT platform.
-OrionClientConfig_Token : API token of your specific running Orion Context broker. To be founded on the docker instance on the server running the IoT platform.
-
+__
+IP_PRN : Ip address of the printer. Usually local host 127.0.0.1 if you are running this agent in local.__
+Port_PRN :  Usually 13000. Used for 3DPRN-ONBOARD Gui instance, replaces Octoprint.__
+OrionClientConfig_BaseUrl : Http address of the running Orion context broker. This address needs to be checked on the centralized server running the IoT platform.__
+OrionClientConfig_Token : API token of your specific running Orion Context broker. To be founded on the docker instance on the server running the IoT platform.__
+__
 prn_ip: ip of the printer. Usually local host 127.0.0.1 if the NGSI Agent runs locally.
 prn_port: used from 3DPRN-ONBOARD Gui which can replace Octoprint. Usually 13000.
 fiware_hash: hash of the Orion Context Broker running in LAN. To be found in Docker on the centralized server.
