@@ -6,11 +6,11 @@ Once you have compiled the software you will have to copy this to the pc or rasp
 ## Configure  
 In the software folder you'll find a .config file (3DPRN_Fiware.exe.config). This file is the configuration file and needs to be configured as follow:  
   
-prn_ip: ip of the printer. Usually local host 127.0.0.1 if the NGSI Agent runs locally.  
-prn_port: used from 3DPRN-ONBOARD Gui which can replace Octoprint. Usually 13000.  
-fiware_hash: hash of the Orion Context Broker running in LAN. To be found in Docker on the centralized server.  
-fiware_address: http-based address of the Orion Context Broker.  
-octopi_hash: hash code of the Octoprint instance running on the printer. To be found on octoprint API settings.  
+##prn_ip##: ip of the printer. Usually local host 127.0.0.1 if the NGSI Agent runs locally.  
+##prn_port##: used from 3DPRN-ONBOARD Gui which can replace Octoprint. Usually 13000.  
+##fiware_hash##: hash of the Orion Context Broker running in LAN. To be found in Docker on the centralized server.  
+##fiware_address##: http-based address of the Orion Context Broker.  
+##octopi_hash##: hash code of the Octoprint instance running on the printer. To be found on octoprint API settings.  
   
 *Example*  
   
