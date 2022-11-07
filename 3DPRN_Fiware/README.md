@@ -17,7 +17,8 @@ fiware_hash: hash of the Orion Context Broker running in LAN. To be found in Doc
 fiware_address: http-based address of the Orion Context Broker.  
 octopi_hash: hash code of the Octoprint instance running on the printer. To be found on octoprint API settings.  
   
-##Example##  
+*Example*  
+  
 ```
 <_3DPRN_Fiware.Properties.Settings>  
 <setting name="prn_ip" serializeAs="String">  
