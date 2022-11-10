@@ -10,6 +10,7 @@ The full-experience is obtained with 3DPRN-LAB 3D printers, but any 3D printer r
 
 The functional scheme of the production plant is:
 
+![image](https://user-images.githubusercontent.com/8396924/201058215-62d6d6bb-f549-4d2f-92b2-e526f0b9f8d8.png)
 
 
 ## 3DPRN_Fiware
