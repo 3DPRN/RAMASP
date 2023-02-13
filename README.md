@@ -4,7 +4,7 @@ The 3D printers composing the system are supposed to be organized in an orderly 
 To obtain the maximum degree of automation, the system should be equipped with a robotic arm. This arm will execute manual operations such as load and unloads of 3D printing plates and control vision of 3D printing.
 
 ## Contents
-- [How it works](#How it works)
+- [How it works](#how-it-works)
 - [Install]
 - [Usage]
 - [Components](#3DPRN_Fiware)
