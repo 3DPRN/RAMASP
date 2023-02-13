@@ -8,7 +8,7 @@ This project is part of [DIH^2](https://www.dih-squared.eu/). For more informati
 - [Install and usage](#install-and-usage)
 - [Components](#3DPRN_Fiware)
 
-##RAM ASP
+## RAM ASP
 
 RAM ASP is a 3D printing project that aims to automate, consolidate and make more reliable 3D Printing.
 The 3D printers composing the system are supposed to be organized in an orderly and regular physical scheme.
