@@ -9,3 +9,4 @@ Just launch 3DPRNWALL_V1.exe. You can find it along with all required dependenci
 
 ## Configure
 
+[Parameters reference](https://github.com/3DPRN/RAMASP/blob/master/RAM%20ASP%20-%20Parameters%20reference.pdf)
