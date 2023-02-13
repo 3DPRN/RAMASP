@@ -5,8 +5,7 @@ To obtain the maximum degree of automation, the system should be equipped with a
 
 ## Contents
 - [How it works](#how-it-works)
-- [Install](#install)
-- [Usage]
+- [Install and usage](#install-and-usage)
 - [Components](#3DPRN_Fiware)
 
 ## How it works
@@ -18,7 +17,7 @@ The functional scheme of the production plant is:
 
 ![image](https://user-images.githubusercontent.com/8396924/201058215-62d6d6bb-f549-4d2f-92b2-e526f0b9f8d8.png)
 
-## Install
+## Install and usage
 See corrispondent topic in this repo to find install details
 
 ## 3DPRN_Fiware
