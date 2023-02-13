@@ -24,7 +24,10 @@ The functional scheme of the production plant is:
 ![image](https://user-images.githubusercontent.com/8396924/201058215-62d6d6bb-f549-4d2f-92b2-e526f0b9f8d8.png)
 
 ## Install and usage
-See corrispondent topic in this repo to find install details
+ 
+1- Install 
+2-
+3-
 
 ## 3DPRN_Fiware
 
