@@ -25,9 +25,9 @@ The functional scheme of the production plant is:
 
 ## Install and usage
  
-1- Install 
-2-
-3-
+1. Install 
+2.
+3.
 
 ## 3DPRN_Fiware
 
