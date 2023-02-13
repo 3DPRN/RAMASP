@@ -25,7 +25,7 @@ The functional scheme of the production plant is:
 
 ## Install and usage
  
-1. Install IoT platform
+1. Install IoT platform ([IOT platform](IoT-Platform))
 2. 
 3.
 
