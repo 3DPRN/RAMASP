@@ -5,7 +5,7 @@ This project is part of [DIH^2](https://www.dih-squared.eu/). For more informati
 ## Contents
 - [What is RAM ASP](#RAM-ASP)
 - [How it works](#how-it-works)
-- [Install and usage](#install-and-usage)
+- [Setup and usage](#setup-and-usage)
 - [Components](#3DPRN_Fiware)
 
 ## RAM ASP
@@ -23,7 +23,7 @@ The functional scheme of the production plant is:
 
 ![image](https://user-images.githubusercontent.com/8396924/201058215-62d6d6bb-f549-4d2f-92b2-e526f0b9f8d8.png)
 
-## Install and usage
+## Setup and usage
  
 1. Install IoT platform ([IOT platform](IoT-Platform))
 2. 
