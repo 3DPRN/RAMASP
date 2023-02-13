@@ -1,34 +1,34 @@
-# Dataset.xml
+# Dataset
 The file contains an example of dataset exported from the system as NGSI v2 entities.
 
 ## Workstation entity
-id: univocal id for workstation entity
+**id:** univocal id for workstation entity
 
-type: type of entity
+**type:** type of entity
 
-3DPrintedPiecesCheckedOK: number of pieces completed and checked on the system
+**3DPrintedPiecesCheckedOK:** number of pieces completed and checked on the system
 
-3DPrintedPiecesCompleted: number of pieces completed on the system
+**3DPrintedPiecesCompleted:** number of pieces completed on the system
 
-3DPrintedPiecesStarted: number of pieces started on the system
+**3DPrintedPiecesStarted:** number of pieces started on the system
 
-3DPrinterProductiveCount: number of productive 3D printers (Ready or printing)
+**3DPrinterProductiveCount:** number of productive 3D printers (Ready or printing)
 
-3DPrintersTotal: total number of 3D printers installed on the system
+**3DPrintersTotal:** total number of 3D printers installed on the system
 
-I40AssetName: Name of the entity
+**I40AssetName:** Name of the entity
 
-I40PhysicalModelType: Type of entity
+**I40PhysicalModelType:** Type of entity
 
-I40Timespamp: Timestamp for the event ("yyyy-MM-dd_HH:mm:ss.fff”)
+**I40Timespamp:** Timestamp for the event ("yyyy-MM-dd_HH:mm:ss.fff”)
 
-Oee: current calculated Overall Equipment Effectiveness
+**Oee:** current calculated Overall Equipment Effectiveness
 
-oeeAvailability: oee availability value of the system
+**oeeAvailability:** oee availability value of the system
 
-oeePerformance: oee performance value of the system
+**oeePerformance:** oee performance value of the system
 
-oeeQuality: oee quality value of the system
+**oeeQuality:** oee quality value of the system
 
 
 ## Unit entity (printer)
