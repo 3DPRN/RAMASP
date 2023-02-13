@@ -1,7 +1,7 @@
 # Dataset.xml
 The file contains an example of dataset exported from the system as NGSI v2 entities.
 
-##Workstation entity
+## Workstation entity
 id: univocal id for workstation entity
 type: type of entity
 3DPrintedPiecesCheckedOK: number of pieces completed and checked on the system
@@ -17,7 +17,7 @@ oeeAvailability: oee availability value of the system
 oeePerformance: oee performance value of the system
 oeeQuality: oee quality value of the system
 
-##Unit entity (printer)
+## Unit entity (printer)
 id: univocal id for unit entity
 type: type of entity
 BedCurrentTemp: current temperature of the heated bed of the unit
