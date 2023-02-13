@@ -24,32 +24,32 @@ The file contains an example of dataset exported from the system as NGSI v2 enti
 
 **Oee:** current calculated Overall Equipment Effectiveness
 
-**oeeAvailability:** oee availability value of the system
+**OeeAvailability:** oee availability value of the system
 
-**oeePerformance:** oee performance value of the system
+**OeePerformance:** oee performance value of the system
 
-**oeeQuality:** oee quality value of the system
+**OeeQuality:** oee quality value of the system
 
 
 ## Unit entity (printer)
-id: univocal id for unit entity
+**id: univocal id for unit entity
 
-type: type of entity
+**type:** type of entity
 
-BedCurrentTemp: current temperature of the heated bed of the unit
+**BedCurrentTemp:** current temperature of the heated bed of the unit
 
-BedTargetTemp: target temperature of the heated bed of the unit
+**BedTargetTemp:** target temperature of the heated bed of the unit
 
-ExtruderCurrentTemp: current temperature of the extruder of the unit
+**ExtruderCurrentTemp:** current temperature of the extruder of the unit
 
-ExtruderTargetTemp: target temperature of the extruder of the unit
+**ExtruderTargetTemp:** target temperature of the extruder of the unit
 
-I40AssetName: Name of the entity
+**I40AssetName:** Name of the entity
 
-I40PhysicalModelType: Type of entity
+**I40PhysicalModelType:** Type of entity
 
-I40Timespamp: Timestamp for the event ("yyyy-MM-dd_HH:mm:ss.fff”)
+**I40Timespamp:** Timestamp for the event ("yyyy-MM-dd_HH:mm:ss.fff”)
 
-Status: status of the unit (Unknown, StandBy, Printing, PrintingPause, Mantainance, Error)
+**Status:** status of the unit (Unknown, StandBy, Printing, PrintingPause, Mantainance, Error)
 
-hasParentI40Asset: name of the parent entity
+**hasParentI40Asset:** name of the parent entity
