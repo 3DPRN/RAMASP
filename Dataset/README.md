@@ -32,7 +32,7 @@ The file contains an example of dataset exported from the system as NGSI v2 enti
 
 
 ## Unit entity (printer)
-**id: univocal id for unit entity
+**id:** univocal id for unit entity
 
 **type:** type of entity
 
