@@ -58,4 +58,4 @@ Main components of this IoT platform are:
 - IoT Agent on port 4041
 - Crate DB on port 4200
 
-You can install this platform on Windows OS through Docker. See specific documentation on how to run and configure the IoT platform.
+You can install this platform on Windows OS through Docker. See [specific documentation](IoT-Platform) on how to run and configure the IoT platform.
