@@ -25,8 +25,8 @@ The functional scheme of the production plant is:
 
 ## Install and usage
  
-1. Install 
-2.
+1. Install IoT platform
+2. 
 3.
 
 ## 3DPRN_Fiware
