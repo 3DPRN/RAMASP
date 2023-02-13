@@ -27,26 +27,26 @@ The functional scheme of the production plant is:
  
 1. Install IoT platform ([IOT platform](IoT-Platform))
 2. Install and configure NGSI IoT Agents on your printers ([IOT Agents](3DPRN_Fiware))
-3. Install and configure 3DPRN-WALL centralized software on a computer ([3DPRN-WALL](https://github.com/3DPRN/RAMASP/releases/tag/v1.0.0), [RAM ASP - Parameters reference.pdf](https://github.com/3DPRN/RAMASP/blob/master/RAM%20ASP%20-%20Parameters%20reference.pdf))
+3. Install and configure 3DPRN-WALL centralized software on a computer ([3DPRN-WALL](https://github.com/3DPRN/RAMASP/releases/tag/v1.0.0), [Parameters reference](https://github.com/3DPRN/RAMASP/blob/master/RAM%20ASP%20-%20Parameters%20reference.pdf))
 4. Install and configure the centralized software's agent ([IOT Agent](3DPRN_Fiware_Houston))
 
 ## 3DPRN_Fiware
 
 This is an NGSIAgent running on each printer.
 What this specifically do is talk locally with the specific printer and export data towards an Orion Context Broker. The centralized OCB will have a set of context data coming from all the printers; this will provide a full detailed situation of the current 3D printing process status.
-Read the specific documentation to have details on how to configure this instance.
+Read the [specific documentation](3DPRN_Fiware) to have details on how to configure this instance.
 
 ## 3DPRN_Fiware_Houston
 
 This is an NGSIAgent running on the pc where the centralized software is running.
 What this specifically do is talk locally with the centralized software and export data towards an Orion Context Broker. The centralized OCB will have the context data coming from this software, providing details about workings flow, workings tails... .
-Read the specific documentation to have details on how to configure this agent.
+Read the [specific documentation](3DPRN_Fiware_Houston) to have details on how to configure this agent.
 
 ## 3DPRN-WALL - Centralized software
 
 This software orchestrate the work of the printers.
 If you have 1000 printers attached to the system, you'll only need to select the gcode to print, and this software will print it considering current workings, the states of the printers and other context process informations.
-Read the specific documentation to have details on how to configure this software.
+Read the [specific documentation](https://github.com/3DPRN/RAMASP/blob/master/RAM%20ASP%20-%20Parameters%20reference.pdf) to have details on how to configure this software.
 
 ## IoT platform
 
