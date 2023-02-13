@@ -1,0 +1,1041 @@
+{
+    "id": "urn:ngsiv2:I40Asset:Workstation001",
+    "type": "I40Asset",
+    "3DPrintedPiecesCheckedOK": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    },
+    "3DPrintedPiecesCompleted": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    },
+    "3DPrintedPiecesStarted": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    },
+    "3DPrinterProductiveCount": {
+        "type": "string",
+        "value": "4",
+        "metadata": {}
+    },
+    "3DPrintersTotal": {
+        "type": "int",
+        "value": "4",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "3DPRN-WALL_1",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Workstation",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:14:07.891",
+        "metadata": {}
+    },
+	"oee": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    },
+    "oeeAvailability": {
+        "type": "int",
+        "value": "100",
+        "metadata": {}
+    },
+    "oeePerformance": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    },
+    "oeeQuality": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502670420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "24.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502670420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:14:10.700",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "StandBy",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502680420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "25.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502680420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:14:11:327",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "StandBy",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502690420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "24.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502690420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:14:11:852",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "StandBy",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502700420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "23.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502700420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:14:12:322",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "StandBy",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:Workstation001",
+    "type": "I40Asset",
+    "3DPrintedPiecesCheckedOK": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    },
+    "3DPrintedPiecesCompleted": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    },
+    "3DPrintedPiecesStarted": {
+        "type": "int",
+        "value": "4",
+        "metadata": {}
+    },
+    "3DPrinterProductiveCount": {
+        "type": "string",
+        "value": "4",
+        "metadata": {}
+    },
+    "3DPrintersTotal": {
+        "type": "int",
+        "value": "4",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "3DPRN-WALL_1",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Workstation",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:20:38:100",
+        "metadata": {}
+    },
+    "oee": {
+        "type": "int",
+        "value": "33",
+        "metadata": {}
+    },
+    "oeeAvailability": {
+        "type": "int",
+        "value": "100",
+        "metadata": {}
+    },
+    "oeePerformance": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    },
+    "oeeQuality": {
+        "type": "int",
+        "value": "0",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502670420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "224.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502670420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:20:39:214",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502680420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502680420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:20:40:027",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502690420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502690420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:20:40:331",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502700420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502700420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:20:41:103",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:Workstation001",
+    "type": "I40Asset",
+    "3DPrintedPiecesCheckedOK": {
+        "type": "int",
+        "value": "4",
+        "metadata": {}
+    },
+    "3DPrintedPiecesCompleted": {
+        "type": "int",
+        "value": "4",
+        "metadata": {}
+    },
+    "3DPrintedPiecesStarted": {
+        "type": "int",
+        "value": "8",
+        "metadata": {}
+    },
+    "3DPrinterProductiveCount": {
+        "type": "string",
+        "value": "4",
+        "metadata": {}
+    },
+    "3DPrintersTotal": {
+        "type": "int",
+        "value": "4",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "3DPRN-WALL_1",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Workstation",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:52:09:522",
+        "metadata": {}
+    },
+    "oee": {
+        "type": "int",
+        "value": "100",
+        "metadata": {}
+    },
+    "oeeAvailability": {
+        "type": "int",
+        "value": "100",
+        "metadata": {}
+    },
+    "oeePerformance": {
+        "type": "int",
+        "value": "100",
+        "metadata": {}
+    },
+    "oeeQuality": {
+        "type": "int",
+        "value": "100",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502670420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "224.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502670420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:52:09:874",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502680420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502680420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:52:09:990",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502690420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502690420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:52:10:220",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502700420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "225.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502700420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_15:52:10:961",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:Workstation001",
+    "type": "I40Asset",
+    "3DPrintedPiecesCheckedOK": {
+        "type": "int",
+        "value": "7",
+        "metadata": {}
+    },
+    "3DPrintedPiecesCompleted": {
+        "type": "int",
+        "value": "7",
+        "metadata": {}
+    },
+    "3DPrintedPiecesStarted": {
+        "type": "int",
+        "value": "8",
+        "metadata": {}
+    },
+    "3DPrinterProductiveCount": {
+        "type": "string",
+        "value": "3",
+        "metadata": {}
+    },
+    "3DPrintersTotal": {
+        "type": "int",
+        "value": "4",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "3DPRN-WALL_1",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Workstation",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_16:27:52:015",
+        "metadata": {}
+    },
+    "oee": {
+        "type": "int",
+        "value": "87",
+        "metadata": {}
+    },
+    "oeeAvailability": {
+        "type": "int",
+        "value": "75",
+        "metadata": {}
+    },
+    "oeePerformance": {
+        "type": "int",
+        "value": "87",
+        "metadata": {}
+    },
+    "oeeQuality": {
+        "type": "int",
+        "value": "100",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502670420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "48.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502670420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_16:27:52:421",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Emergency",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502680420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "152.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502680420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_16:27:52:880",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502690420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "140.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502690420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_16:27:53:766",
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
+{
+    "id": "urn:ngsiv2:I40Asset:UnitPRN34112502700420",
+    "type": "I40Asset",
+    "BedCurrentTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "BedTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "ExtruderCurrentTemp": {
+        "type": "double",
+        "value": "162.0",
+        "metadata": {}
+    },
+    "ExtruderTargetTemp": {
+        "type": "double",
+        "value": "0.0",
+        "metadata": {}
+    },
+    "I40AssetName": {
+        "type": "string",
+        "value": "PrinterPRN34112502700420",
+        "metadata": {}
+    },
+    "I40PhysicalModelType": {
+        "type": "string",
+        "value": "Unit",
+        "metadata": {}
+    },
+	"I40Timespamp": {
+        "type": "string",
+        "value": "2023-02-08_16:27:53:928,
+        "metadata": {}
+    },
+    "Status": {
+        "type": "string",
+        "value": "Printing",
+        "metadata": {}
+    },
+    "hasParentI40Asset": {
+        "type": "string",
+        "value": "urn:ngsiv2:I40Asset:Workstation001",
+        "metadata": {}
+    }
+}
