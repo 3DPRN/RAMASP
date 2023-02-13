@@ -2,14 +2,17 @@
 
 This project is part of [DIH^2](https://www.dih-squared.eu/). For more information check the RAMP Catalogue entry for the components.
 
-RAM ASP is a 3D printing project that aims to automate, consolidate and make more reliable 3D Printing.
-The 3D printers composing the system are supposed to be organized in an orderly and regular physical scheme.
-To obtain the maximum degree of automation, the system should be equipped with a robotic arm. This arm will execute manual operations such as load and unloads of 3D printing plates and control vision of 3D printing.
-
 ## Contents
+- [What is RAM ASP](#RAM-ASP)
 - [How it works](#how-it-works)
 - [Install and usage](#install-and-usage)
 - [Components](#3DPRN_Fiware)
+
+##RAM ASP
+
+RAM ASP is a 3D printing project that aims to automate, consolidate and make more reliable 3D Printing.
+The 3D printers composing the system are supposed to be organized in an orderly and regular physical scheme.
+To obtain the maximum degree of automation, the system should be equipped with a robotic arm. This arm will execute manual operations such as load and unloads of 3D printing plates and control vision of 3D printing.
 
 ## How it works
 
