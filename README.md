@@ -26,8 +26,8 @@ The functional scheme of the production plant is:
 ## Setup and usage
  
 1. Install IoT platform ([IOT platform](IoT-Platform))
-2. 
-3.
+2. Install and configure NGSI IoT Agents on your printers ([IOT Agents](3DPRN_Fiware))
+3. Install and configure 3DPRN-WALL centralized software on a computer ([3DPRN-WALL](https://github.com/3DPRN/RAMASP/releases/tag/v1.0.0),[Reference](RAM ASP - Parameters reference.pdf))
 
 ## 3DPRN_Fiware
 
