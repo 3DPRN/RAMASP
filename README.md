@@ -30,6 +30,8 @@ The functional scheme of the production plant is:
 3. Install and configure 3DPRN-WALL centralized software on a computer ([3DPRN-WALL](https://github.com/3DPRN/RAMASP/releases/tag/v1.0.0), [Parameters reference](https://github.com/3DPRN/RAMASP/blob/master/RAM%20ASP%20-%20Parameters%20reference.pdf))
 4. Install and configure the centralized software's agent ([IOT Agent](3DPRN_Fiware_Houston))
 
+Check the setup video from Youtube: https://youtu.be/W2af16RZACQ
+
 ## 3DPRN_Fiware
 
 This is an NGSIAgent running on each printer.
